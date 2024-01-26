@@ -29,8 +29,8 @@
 #   datetimetype=DATETIME
 #
 
-CREATE DATABASE IF NOT EXISTS ``;
-USE ``;
+#CREATE DATABASE IF NOT EXISTS ``;
+#USE ``;
 
 #
 # Table structure for table 'Patient'
